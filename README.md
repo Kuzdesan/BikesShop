@@ -7,11 +7,11 @@ Console application that simulates work of bikes shop
 <p> - Adding a bike to the store</p>
 <p> - Viewing bike information</p>
 <p> - Bike sale</p>
-<p> - Bicycle repair</p>
+<p> - Bike repair</p>
 <p> - Viewing the store's catalog</p>
 <p> - Viewing customer information</p>
 <p> - Viewing customer purchases</p>
-<p> - Viewing a customer's fixed bicycles</p>
+<p> - Viewing a customer's fixed bikes</p>
 
 <h2> Diagram </h2>
 
