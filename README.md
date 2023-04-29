@@ -14,3 +14,5 @@ Console application that simulates work of bikes shop
 <p> - Viewing a customer's fixed bicycles</p>
 
 <h2> Diagram </h2>
+
+![diagram](https://user-images.githubusercontent.com/99547319/235307992-ce541c2a-b36a-41a3-8f7e-d772d4cb5083.png)
